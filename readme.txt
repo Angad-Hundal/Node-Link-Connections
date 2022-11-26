@@ -1,10 +1,5 @@
-// Name: Angadpal Singh Hundal
-// NSID : anh855
-// Student no: 11294999
-// Class: CMPT 381
-
 
 Just run the EditorApp and the code will run. The making of nodes, link and the connections are working great. When we create a connection between node it create two line. The deletion of node is also working great. When we delete node all the connections with it get cancelled out and when we delete the link rectangle all the line connected with it get deleted. 
 The move is not working. It is able to pass through the controller and controller is succesfully able to detect change and pass it to appropriate function. The print lines are used to detect and show those changes also. 
 The minimum size is set for all the views and it does handle resizing to some extend. 
-The mini view is also working good and it does show all the changes on it and does not allow the changes to be done through it.
+The mini view is also working ggood and it does show all the changes on it and does not allow the changes to be done through it.
